@@ -1,0 +1,7 @@
+{
+  "name": "polity-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rupert Parry <ruparry@gmail.com>",
+  "license": "MIT"
+}
