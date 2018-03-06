@@ -3,5 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Rupert Parry <ruparry@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.0",
+    "dom-search": "^1.0.1",
+    "jsdom": "^11.6.2",
+    "mongodb": "^3.0.4",
+    "request": "^2.83.0"
+  }
 }
